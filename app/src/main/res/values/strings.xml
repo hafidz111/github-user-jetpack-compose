@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="placeholder_search">Mau Cari Siapa?</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_star">Star</string>
+    <string name="menu_profile">Profile</string>
+    <string name="name">Hafidz Nur Pradigda</string>
+    <string name="email_owner">hnpradigda@gmail.com</string>
+    <string name="starred_users">Starred Users</string>
+    <string name="no_star">Tidak ada pengguna yang ditandai</string>
+    <string name="back">Back</string>
+</resources>
